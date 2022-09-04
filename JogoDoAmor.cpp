@@ -79,6 +79,6 @@ void tela(char n1, char n2)
 
 	}
 	else
-		std::cout << "  Poxa pelo visto voc�s n�o combinam tanto mas não desista" << std::endl;
+		std::cout << "  Poxa pelo visto vocês não combinam tanto mas não desista" << std::endl;
 
 }
