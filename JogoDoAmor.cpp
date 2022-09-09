@@ -4,7 +4,7 @@
 #include <tchar.h>
 #include<ctype.h>
 
-int ale(int& rand1);
+int Aleatorio(int& rand1);
 void i1(char& n1);
 void i2(char& n2);
 void tela(char n1, char n2);
